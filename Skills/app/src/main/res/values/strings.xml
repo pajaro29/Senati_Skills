@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Skills</string>
+    <string name="lbl_nomb">Ronald Picón</string>
+    <string name="lbl_skil1">Azure Data Y AI Specialist</string>
+    <string name="lbl_skil2">Microsoft Certified Trainer</string>
+    <string name="lbl_nac">29 de Octubre, 1982</string>
+    <string name="lbl_ubi">Rioja, Perú</string>
+    <string name="lbl_fono">+51 935 146 095</string>
+    <string name="lbl_correo">pajaro29@gmail.com</string>
+    <string name="lbl_des1">I am Ronald Picon, Microsoft Innovative Educator</string>
+    <string name="lbl_des2">Expert and Microsoft Learn Student Ambassadors in</string>
+    <string name="lbl_des3">Developing Microsoft Azure Solutions.</string>
+    <string name="lbl_des4">Lover of Software Development using Microfost</string>
+    <string name="lbl_des5">Technologies and Open Source. Active menber of</string>
+    <string name="lbl_des6">Microsoft User Group Perú collaboration in conferences,</string>
+    <string name="lbl_des7">organizing and promoting technological events.</string>
+
+</resources>

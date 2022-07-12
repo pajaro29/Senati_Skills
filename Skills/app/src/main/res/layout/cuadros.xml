@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Profile">
+
+
+    <TextView
+        android:id="@+id/lbl_por"
+        android:layout_width="89dp"
+        android:layout_height="90dp"
+        android:background="@drawable/square"
+        android:drawableTop="@drawable/ic_group_work_40"
+        android:drawablePadding="5dp"
+        android:hint="Portfolio"
+        android:paddingHorizontal="24dp"
+        android:textColorHint="@color/white"
+        android:textSize="10dp"
+        android:textStyle="bold"
+        app:flow_horizontalAlign="center"
+        tools:layout_editor_absoluteX="213dp"
+        tools:layout_editor_absoluteY="614dp" />
+
+    <TextView
+        android:id="@+id/lbl_lov"
+        android:layout_width="89dp"
+        android:layout_height="90dp"
+        android:background="@drawable/square"
+        android:drawableTop="@drawable/ic_favorite_40"
+        android:drawablePadding="5dp"
+        android:hint="Interest"
+        android:paddingHorizontal="25dp"
+        android:textColorHint="@color/white"
+        android:textSize="10dp"
+        android:textStyle="bold"
+        app:flow_horizontalAlign="center"
+        tools:layout_editor_absoluteX="99dp"
+        tools:layout_editor_absoluteY="614dp" />
+
+    <TextView
+        android:id="@+id/lbl_exp"
+        android:layout_width="83dp"
+        android:layout_height="89dp"
+        android:background="@drawable/square"
+        android:drawableTop="@drawable/ic_person_40"
+        android:drawablePadding="5dp"
+        android:hint="Experience"
+        android:textColorHint="@color/white"
+        android:textSize="10dp"
+        android:textStyle="bold"
+        app:flow_horizontalAlign="center"
+        tools:layout_editor_absoluteX="99dp"
+        tools:layout_editor_absoluteY="501dp" />
+
+    <TextView
+        android:id="@+id/lbl_bac"
+        android:layout_width="83dp"
+        android:layout_height="89dp"
+        android:background="@drawable/square"
+        android:drawableTop="@drawable/ic_image_40"
+        android:drawablePadding="5dp"
+        android:hint="Background"
+        android:paddingHorizontal="10dp"
+        android:textColorHint="@color/white"
+        android:textSize="10dp"
+        android:textStyle="bold"
+        app:flow_horizontalAlign="center"
+        tools:layout_editor_absoluteX="213dp"
+        tools:layout_editor_absoluteY="501dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
